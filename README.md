@@ -6,3 +6,5 @@ Requisitos do software:
 ```
 node app.js
 ```
+
+:)
