@@ -4,5 +4,5 @@
 
 Requisitos do software: 
 ```
-nmp install react
+node app.js
 ```
